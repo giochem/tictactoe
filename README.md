@@ -3,7 +3,10 @@ Make sure you already have python and pip
 
 `pip install -r requirements.txt`
 
-# DEMO
+# Note
+Because docker does not have a GUI to run the application, please download xlaunch if you use docker
+
+# Demo
 Start Game
 
 ![image](https://github.com/user-attachments/assets/716b55cc-6223-47a2-8d42-23f2dcef5043)
@@ -18,5 +21,4 @@ Game Over
 ![image](https://github.com/user-attachments/assets/d110c5bf-f8a7-4ee6-8aa2-d93381db5235)
 
 
-#Note
-Because docker does not have a GUI to run the application, please download xlaunch if you use docker
+
