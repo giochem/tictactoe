@@ -16,3 +16,7 @@ Playing
 Game Over
 
 ![image](https://github.com/user-attachments/assets/d110c5bf-f8a7-4ee6-8aa2-d93381db5235)
+
+
+#Note
+Because docker does not have a GUI to run the application, please download xlaunch if you use docker
